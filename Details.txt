@@ -1,0 +1,30 @@
+--------------------------------------------------------------
+
+Render URL : https://nodejs-filesystem-v47f.onrender.com
+
+--------------------------------------------------------------
+Different Methods:
+--------------------------------------------------------------
+
+POST : https://nodejs-filesystem-v47f.onrender.com/api/files/create
+
+Above API endpoint will create a text file in directory /opt/render/project/src/testFolder on server.
+Content of the file will be current timestamp & the file name will be current date-time.txt
+
+--------------------------------------------------------------
+
+GET : https://nodejs-filesystem-v47f.onrender.com/api/files/
+
+Above API endpoint will retrieve all the text files in a directory /opt/render/project/src/testFolder from server.
+
+--------------------------------------------------------------
+
+GitHub URL : https://github.com/Sathyanarayanan-R/nodejs-filesystem
+
+Last Commited Hash ID : ca62f6b6415db27b1af07aa9e0ea6f5da6be8e15
+
+--------------------------------------------------------------
+
+Postman API Documentation URL : https://documenter.getpostman.com/view/26192113/2s93JtQ3qg
+
+--------------------------------------------------------------
